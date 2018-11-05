@@ -6,6 +6,8 @@
 
 ### Historia
 La palanca de mando eléctrica de dos ejes fue inventado por CB Mirick en Estados Unidos.En la década de 1960, el uso de las palancas de mando se generalizó en los sistemas de aeronaves radiocontroladas. En muchos aviones modernos la palanca de mando ha recibido una nueva vida útil para el control de vuelo en forma de "palanca lateral" (side-stick), un controlador similar a un joystick de videojuegos pero que se usa para controlar el vuelo.
+
+
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Prototype_Gemini_Hand_Controller.jpg/220px-Prototype_Gemini_Hand_Controller.jpg)
 
 ### ¿Que es un joystick?
