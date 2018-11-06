@@ -4,14 +4,15 @@
 
 ![enter image description here](https://images-na.ssl-images-amazon.com/images/I/41E26NBF2ZL._SY450_.jpg)
 
-### Historia
-La palanca de mando eléctrica de dos ejes fue inventado por CB Mirick en 1926 .En la década de 1960, el uso de las palancas de mando se generalizó en los sistemas de aeronaves radiocontroladas. En muchos aviones modernos la palanca de mando ha recibido una nueva vida útil para el control de vuelo en forma de "palanca lateral" (side-stick), un controlador similar a un joystick de videojuegos pero que se usa para controlar el vuelo.
-
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Prototype_Gemini_Hand_Controller.jpg/220px-Prototype_Gemini_Hand_Controller.jpg)
 
 ### ¿Que es un joystick?
 
 Es un periférico de entrada que consiste en una palanca que gira sobre una base e indica su ángulo o dirección al dispositivo que está controlando.
+
+### Historia
+La palanca de mando eléctrica de dos ejes fue inventado por CB Mirick en 1926 .En la década de 1960, el uso de las palancas de mando se generalizó en los sistemas de aeronaves radiocontroladas. En muchos aviones modernos la palanca de mando ha recibido una nueva vida útil para el control de vuelo en forma de "palanca lateral" (side-stick), un controlador similar a un joystick de videojuegos pero que se usa para controlar el vuelo.
+
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Prototype_Gemini_Hand_Controller.jpg/220px-Prototype_Gemini_Hand_Controller.jpg)
 
 
 ### ¿Para que sirve?
